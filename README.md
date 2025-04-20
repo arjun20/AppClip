@@ -33,6 +33,7 @@ Displays all user-marked favourite items for quick access
   <img src="assets/Screenshot2.png" width="200"/>
   <img src="assets/Screenshot3.png" width="200"/>
   <img src="assets/Screenshot4.png" width="200"/>
+  <img src="assets/Screenshot5.png" width="200"/>
 </p>
 
 
